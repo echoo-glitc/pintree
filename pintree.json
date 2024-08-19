@@ -1,0 +1,1211 @@
+[
+  {
+    "type": "folder",
+    "addDate": 1722569232265,
+    "title": "收藏夹栏",
+    "children": [
+      {
+        "type": "folder",
+        "addDate": 1718643358985,
+        "title": "搜索端口",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1718643336946,
+            "title": "脚本下载Greasy Fork - 安全、实用的用户脚本大全",
+            "icon": "https://logo.clearbit.com/greasyfork.org",
+            "url": "https://greasyfork.org/zh-CN"
+          },
+          {
+            "type": "folder",
+            "addDate": 1718729908411,
+            "title": "mac软件下载",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1718820224508,
+                "title": "🍃软件下载元婴MAC软件站-Mac破解软件分享中心",
+                "icon": "https://logo.clearbit.com/maczz.net",
+                "url": "https://maczz.net/"
+              },
+              {
+                "type": "link",
+                "addDate": 1718644558837,
+                "title": "🍃mac软件下载macMacWk - 精品mac软件下载",
+                "icon": "https://logo.clearbit.com/macwk.cn",
+                "url": "https://macwk.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1718765235109,
+                "title": "软件插件 Raycast - Store",
+                "icon": "https://logo.clearbit.com/www.raycast.com",
+                "url": "https://www.raycast.com/store"
+              },
+              {
+                "type": "link",
+                "addDate": 1718645078113,
+                "title": "相关软件下载 | 油小猴",
+                "icon": "https://logo.clearbit.com/www.youxiaohou.com",
+                "url": "https://www.youxiaohou.com/download.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1718727789179,
+                "title": "开源软件 GitHub: Let’s build from here · GitHub",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1718896654093,
+                "title": "Mac毒 - Mac软件下载网站（奶酪网）",
+                "icon": "https://logo.clearbit.com/www.macdo.cn",
+                "url": "https://www.macdo.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1719843649037,
+                "title": "潘多拉盒子-精选软件应用,提升创造力!",
+                "icon": "https://logo.clearbit.com/www.inpandora.com",
+                "url": "https://www.inpandora.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1720126906179,
+                "title": "Flourish | Data Visualization & Storytelling",
+                "icon": "https://logo.clearbit.com/app.flourish.studio",
+                "url": "https://app.flourish.studio/login"
+              },
+              {
+                "type": "link",
+                "addDate": 1720441240237,
+                "title": "MacKed - 专注于mac软件分享与下载",
+                "icon": "https://logo.clearbit.com/macked.app",
+                "url": "https://macked.app/page/2"
+              },
+              {
+                "type": "link",
+                "addDate": 1720862601655,
+                "title": "时间计算器 / 天计算器 (多少年来，几天、 几个小时分钟...) 📆",
+                "icon": "https://logo.clearbit.com/www.topster.cn",
+                "url": "https://www.topster.cn/calendar/zeitrechner.php?styp=zeit&sdatum=2024-07-10&szeit=19%3A30&typ=zeit&edatum=2024-07-13&ezeit=13%3A30&subDazu=%2B&jahredazu=0&wochendazu=0&tagedazu=0&zeitdazu=00%3A00%3A00"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1719839229045,
+            "title": "win软件下载",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1719839229046,
+                "title": "新建文件夹",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1719839229047,
+                    "title": "来了，全球第一的甜品！_哔哩哔哩_bilibili",
+                    "icon": "https://logo.clearbit.com/www.bilibili.com",
+                    "url": "https://www.bilibili.com/video/BV1cs421M7Mq/?spm_id_from=autoNext&vd_source=4aef1cf580c8a136e61681678db5c3c2"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1719839229047,
+                    "title": "历史记录",
+                    "icon": "https://logo.clearbit.com/www.bilibili.com",
+                    "url": "https://www.bilibili.com/account/history?spm_id_from=333.788.0.0"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1719839229047,
+                    "title": "winwk - 搜索",
+                    "icon": "https://logo.clearbit.com/cn.bing.com",
+                    "url": "https://cn.bing.com/search?q=winwk&FPIG=52C7750A1477481F8A9CF46CFAB5242A&first=11&FORM=PORE"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1719839229047,
+                    "title": "软仓 - 搜索",
+                    "icon": "https://logo.clearbit.com/cn.bing.com",
+                    "url": "https://cn.bing.com/search?q=%e8%bd%af%e4%bb%93&FPIG=191DBB1202A646FFA83F1FE5F668881E&first=20&FORM=PORE"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1719839229048,
+                    "title": "软仓丨RuanCang.Net",
+                    "icon": "https://logo.clearbit.com/ruancang.net",
+                    "url": "https://ruancang.net/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1719839229048,
+                    "title": "百度网盘",
+                    "icon": "https://logo.clearbit.com/pan.baidu.com",
+                    "url": "https://pan.baidu.com/disk/main#/index?category=all&path=%2F%E6%88%91%E7%9A%84%E8%B5%84%E6%BA%90"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1719839229048,
+                    "title": "microkms_神龙版_v18.09.25_Cracked_By_KOFmj.exe - 蓝奏云",
+                    "icon": "https://logo.clearbit.com/www.lanzouw.com",
+                    "url": "https://www.lanzouw.com/iO08Luzvsrg"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1719843097509,
+                "title": "果核剥壳 - 互联网的净土",
+                "icon": "https://logo.clearbit.com/www.ghxi.com",
+                "url": "https://www.ghxi.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1719843248212,
+                "title": "大眼仔旭 - 专注开源软件、视频剪辑、免费商用字体、屏幕录像工具、思维导图等办公资源分享",
+                "icon": "https://logo.clearbit.com/www.dayanzai.me",
+                "url": "http://www.dayanzai.me/"
+              },
+              {
+                "type": "link",
+                "addDate": 1719843311200,
+                "title": "独孤求软 | 工具达人",
+                "icon": "https://logo.clearbit.com/toolsdar.cn",
+                "url": "https://toolsdar.cn/sites/199.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1719843441632,
+                "title": "六音",
+                "icon": "https://logo.clearbit.com/www.sixyin.com",
+                "url": "https://www.sixyin.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1719843546791,
+                "title": "奇迹秀工具箱 - 设计师的百宝箱",
+                "icon": "https://logo.clearbit.com/www.qijishow.com",
+                "url": "https://www.qijishow.com/down/index.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1719843597808,
+                "title": "马可菠萝 - 分享你喜欢的MAC应用",
+                "icon": "https://logo.clearbit.com/www.macbl.com",
+                "url": "https://www.macbl.com/mobile"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1720437990032,
+            "title": "工具网站搜索",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1720438006835,
+                "title": "搜索适合的AI AI导航-AI探索者 | 领先的AI导航网站-收录超过3000个优质的AI应用导航网站",
+                "icon": "https://logo.clearbit.com/aisnav.com",
+                "url": "https://aisnav.com/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1718729908412,
+        "title": "文献检索",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1718729908412,
+            "title": "zotero",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1718729842680,
+                "title": "Zotero｜如何快速查看某篇文献所在的文献集（collection）？",
+                "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+                "url": "https://mp.weixin.qq.com/s?__biz=MzAxNzgyMDg0MQ==&mid=2650458069&idx=1&sn=e2a76819548dc49a7748a7c1c0fd4a9c&scene=21#wechat_redirect"
+              },
+              {
+                "type": "link",
+                "addDate": 1719012500960,
+                "title": "Zotero 中文小组 | Zotero 中文小组",
+                "icon": "https://logo.clearbit.com/main--zotero-zh.netlify.app",
+                "url": "https://main--zotero-zh.netlify.app/"
+              },
+              {
+                "type": "link",
+                "addDate": 1719164815379,
+                "title": "zotcard 模板欢迎分享你的卡片模版 · 018/zotcard · Discussion #2 · GitHub",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/018/zotcard/discussions/2"
+              },
+              {
+                "type": "link",
+                "addDate": 1719165143034,
+                "title": "ob联动模板 windingwind/zotero-better-notes 笔记模板 ·讨论 ·GitHub上 --- windingwind/zotero-better-notes Note Templates · 讨论 · GitHub",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/windingwind/zotero-better-notes/discussions/611"
+              },
+              {
+                "type": "link",
+                "addDate": 1719505518855,
+                "title": "ScienceDirect.com | Science, health and medical journals, full text articles and books.",
+                "icon": "https://logo.clearbit.com/www.sciencedirect.com",
+                "url": "https://www.sciencedirect.com/"
+              },
+              {
+                "type": "folder",
+                "addDate": 1720055015302,
+                "title": "zotero one",
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1718992750585,
+            "title": "obsidian",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1718992715369,
+                "title": "Zotero + Obsidian联动方案汇总盘点 - 2023最全 - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/651144180"
+              },
+              {
+                "type": "link",
+                "addDate": 1718992880831,
+                "title": "如何用obsidian+zotero搞科研？ - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/489713119"
+              },
+              {
+                "type": "link",
+                "addDate": 1718993333292,
+                "title": "Obsidian+Zotero打造最强科研工具链 - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/639325772"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1719853875912,
+            "title": "protocol搜索",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1719905178062,
+                "title": "protocol搜索 Peer Reviewed Scientific Video Journal - Methods and Protocols | JoVE",
+                "icon": "https://logo.clearbit.com/www.jove.com",
+                "url": "https://www.jove.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1719905237147,
+                "title": "STAR Protocols: Cell Press",
+                "icon": "https://logo.clearbit.com/www.cell.com",
+                "url": "https://www.cell.com/star-protocols/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1719905250360,
+                "title": "Bio-protocol Journal | Bio-protocol",
+                "icon": "https://logo.clearbit.com/bio-protocol.org",
+                "url": "https://bio-protocol.org/en"
+              },
+              {
+                "type": "link",
+                "addDate": 1719905264061,
+                "title": "Bring structure to your research - protocols.io",
+                "icon": "https://logo.clearbit.com/www.protocols.io",
+                "url": "https://www.protocols.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1720169501851,
+                "title": "Current Protocols - Wiley Online Library",
+                "icon": "https://logo.clearbit.com/currentprotocols.onlinelibrary.wiley.com",
+                "url": "https://currentprotocols.onlinelibrary.wiley.com/"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1718764490812,
+            "title": "英文矫正 Wordtune",
+            "icon": "https://logo.clearbit.com/app.wordtune.com",
+            "url": "https://app.wordtune.com/auth/signup?redirect=https%3A%2F%2Fapp.wordtune.com%2Fwelcome&uuid=2690a681-d631-4a76-a802-7183eb7fe12c&platform=extension&origin=install"
+          },
+          {
+            "type": "folder",
+            "addDate": 1720114763655,
+            "title": "AI找论文工具",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1720114664324,
+                "title": "猎研 SciRadar",
+                "icon": "https://logo.clearbit.com/www.sciradar.com",
+                "url": "https://www.sciradar.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1718729954619,
+                "title": "收费/可视化文献网络Connected Papers | Find and explore academic papers",
+                "icon": "https://logo.clearbit.com/www.connectedpapers.com",
+                "url": "https://www.connectedpapers.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1718732728575,
+                "title": "可视化文献检索 Open Knowledge Maps - Your guide to scientific knowledge",
+                "icon": "https://logo.clearbit.com/openknowledgemaps.org",
+                "url": "https://openknowledgemaps.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1718732441830,
+                "title": "文献网络 Using Citations to Explore Academic Literature | Inciteful.xyz",
+                "icon": "https://logo.clearbit.com/inciteful.xyz",
+                "url": "https://inciteful.xyz/"
+              },
+              {
+                "type": "link",
+                "addDate": 1718731974983,
+                "title": "可视化文献网络 Research Rabbit",
+                "icon": "https://logo.clearbit.com/researchrabbitapp.com",
+                "url": "https://researchrabbitapp.com/"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1719209726800,
+            "title": "You are Crossref - Crossref",
+            "icon": "https://logo.clearbit.com/www.crossref.org",
+            "url": "https://www.crossref.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719209756634,
+            "title": "ZoteroBib: Fast, free bibliography generator - MLA, APA, Chicago, Harvard citations",
+            "icon": "https://logo.clearbit.com/zbib.org",
+            "url": "https://zbib.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719505452404,
+            "title": "web of science",
+            "icon": "https://logo.clearbit.com/access.clarivate.com",
+            "url": "https://access.clarivate.com/login?app=wos&alternative=true&shibShireURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fauth%3DShibboleth&shibReturnURL=https:%2F%2Fwww.webofknowledge.com%2F&roaming=true"
+          },
+          {
+            "type": "link",
+            "addDate": 1719506617963,
+            "title": "文献可视化软件下载 CiteSpace Basic (Free)",
+            "icon": "https://logo.clearbit.com/citespace.podia.com",
+            "url": "https://citespace.podia.com/download"
+          },
+          {
+            "type": "link",
+            "addDate": 1719506731124,
+            "title": "文献可视化软件下载 CiteSpace - Browse /6.3.R1 Basic (2.14.2024 - 12.31.2025) at SourceForge.net",
+            "icon": "https://logo.clearbit.com/sourceforge.net",
+            "url": "https://sourceforge.net/projects/citespace/files/6.3.R1%20Basic%20%282.14.2024%20-%2012.31.2025%29/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719506947264,
+            "title": "文献可视化 Carrot2 search results clustering engine",
+            "icon": "https://logo.clearbit.com/search.carrot2.org",
+            "url": "https://search.carrot2.org/#/search/web"
+          },
+          {
+            "type": "link",
+            "addDate": 1719853655398,
+            "title": "Semantic Scholar | AI-Powered Research Tool",
+            "icon": "https://logo.clearbit.com/www.semanticscholar.org",
+            "url": "https://www.semanticscholar.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1720549210782,
+            "title": "预印本 arXiv.org e-Print archive",
+            "icon": "https://logo.clearbit.com/arxiv.org",
+            "url": "https://arxiv.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1720727801281,
+            "title": "论文下载网站，不止scihub",
+            "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+            "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDYxODg5MA==&mid=2247483786&idx=1&sn=af9d650d5ede9bd67a2b5dd1ca8f2b06&chksm=c0400e6ff7378779f92cab8e24bed33631821c01e7a892dca4d0963527dc7fbb8089430e5fca&scene=21#wechat_redirect"
+          },
+          {
+            "type": "link",
+            "addDate": 1721989519346,
+            "title": "arXiv.org e-Print archive",
+            "icon": "https://logo.clearbit.com/arxiv.org",
+            "url": "https://arxiv.org/#"
+          },
+          {
+            "type": "link",
+            "addDate": 1721989558449,
+            "title": "Home | Research Square",
+            "icon": "https://logo.clearbit.com/www.researchsquare.com",
+            "url": "https://www.researchsquare.com/"
+          },
+          {
+            "type": "folder",
+            "addDate": 1719853742866,
+            "title": "网页工具",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1719853742866,
+                "title": "图像处理",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1719711529830,
+                    "title": "图片无损放大 Bigjpg - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片",
+                    "icon": "https://logo.clearbit.com/bigjpg.com",
+                    "url": "https://bigjpg.com/zh"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1719711480731,
+                    "title": "图片无损放大AI 圖像升級器 |批量免費高檔照片、漫畫",
+                    "icon": "https://logo.clearbit.com/imgupscaler.com",
+                    "url": "https://imgupscaler.com/zh-tw"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1719716416866,
+                    "title": "PDF图片处理Free AI Writing, PDF, Image, and other Online Tools - TinyWow",
+                    "icon": "https://logo.clearbit.com/tinywow.com",
+                    "url": "https://tinywow.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1719717440553,
+                    "title": "免费图片格式转换Image Candy - Online Image Editor",
+                    "icon": "https://logo.clearbit.com/imgcandy.com",
+                    "url": "https://imgcandy.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1719888070792,
+                    "title": "Cay-Zhang/RSSBud: An RSS feed discovery app for iOS/macOS that works particularly well with RSSHub, a popular feed generation service. Available on the App Store.",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/Cay-Zhang/RSSBud"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1720077248718,
+                    "title": "图片格式转换 Video Converter - FreeConvert.com",
+                    "icon": "https://logo.clearbit.com/www.freeconvert.com",
+                    "url": "https://www.freeconvert.com/video-converter"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1720545373721,
+                    "title": "图片编辑截图 压缩 抠图-ShotEasy ",
+                    "icon": "https://logo.clearbit.com/shoteasy.fun",
+                    "url": "https://shoteasy.fun/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1720019815512,
+                "title": "OCR",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1720019832188,
+                    "title": "OLOCR - 简体中文OCR、无限制图片文字识别、在线图片文字识别、PDF文字识别、批量图片文字…",
+                    "icon": "https://logo.clearbit.com/olocr.com",
+                    "url": "https://olocr.com/ocr?l=chinese_simplified"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1720118939631,
+                "title": "网页思维导图Whimsical",
+                "icon": "https://logo.clearbit.com/whimsical.com",
+                "url": "https://whimsical.com/home"
+              },
+              {
+                "type": "folder",
+                "addDate": 1720435673410,
+                "title": "AI",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1720458935716,
+                    "title": "perplexity",
+                    "icon": "https://logo.clearbit.com/www.perplexity.ai",
+                    "url": "https://www.perplexity.ai/search/gao-su-wo-ru-he-cha-dao-wei-xi-Mr5STfcOSKypne._36fuhA"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1720460019581,
+                    "title": "gemini 获取 API 密钥 | Google AI Studio",
+                    "icon": "https://logo.clearbit.com/aistudio.google.com",
+                    "url": "https://aistudio.google.com/app/apikey"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1720462916712,
+                    "title": "SiliconCloud",
+                    "icon": "https://logo.clearbit.com/cloud.siliconflow.cn",
+                    "url": "https://cloud.siliconflow.cn/models/text/chat"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1721406802507,
+                    "title": "Anthropic Console",
+                    "icon": "https://logo.clearbit.com/console.anthropic.com",
+                    "url": "https://console.anthropic.com/dashboard"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1721422834774,
+                    "title": "OpenAI API",
+                    "icon": "https://logo.clearbit.com/platform.openai.com",
+                    "url": "https://platform.openai.com/api-keys"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1722781524095,
+                    "title": "ChatGPT - Consensus",
+                    "icon": "https://logo.clearbit.com/chatgpt.com",
+                    "url": "https://chatgpt.com/g/g-bo0FiWLY7-consensus"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1720543246193,
+                "title": "格式转化",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1720543289962,
+                    "title": "在线格式转化 Convertio — 文件转换器",
+                    "icon": "https://logo.clearbit.com/convertio.co",
+                    "url": "https://convertio.co/zh/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1721999865193,
+                    "title": "Perplexity AI搜索引擎使用评测分享 - AI神器集",
+                    "icon": "https://logo.clearbit.com/hao.logosc.cn",
+                    "url": "https://hao.logosc.cn/p/1483"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1723228134211,
+                    "title": "新版huggingface部署wewe-rss教程 | 小余 Blog",
+                    "icon": "https://logo.clearbit.com/www.xiaoyublog.top",
+                    "url": "https://www.xiaoyublog.top/article/wewe-rss?utm_source=pocket_saves"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1720600824383,
+                "title": "时间计算器",
+                "icon": "https://logo.clearbit.com/sc.toolnb.com",
+                "url": "https://sc.toolnb.com/tools/datejsq.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1720685215557,
+                "title": "【教学】iShot-取色使用 - Better365",
+                "icon": "https://logo.clearbit.com/www.better365.cn",
+                "url": "https://www.better365.cn/ishot/pickcolor.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1720862670072,
+                "title": "时间计算器 - Google 搜索",
+                "icon": "https://logo.clearbit.com/www.google.com.hk",
+                "url": "https://www.google.com.hk/search?q=%E6%97%B6%E9%97%B4%E8%AE%A1%E7%AE%97%E5%99%A8"
+              },
+              {
+                "type": "link",
+                "addDate": 1721422709583,
+                "title": "收国外短信-SMS-Activate是在线接受短信的虚拟号码服务",
+                "icon": "https://logo.clearbit.com/sms-activate.io",
+                "url": "https://sms-activate.io/cn"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1722439825515,
+            "title": "Library",
+            "icon": "https://logo.clearbit.com/typeset.io",
+            "url": "https://typeset.io/library"
+          },
+          {
+            "type": "link",
+            "addDate": 1722492832836,
+            "title": "你是研究分枝杆菌的资深微生物学家。在本文中，我们... --- You are a senior microbiologist working on Mycobacterium. In this paper, we...",
+            "icon": "https://logo.clearbit.com/www.perplexity.ai",
+            "url": "https://www.perplexity.ai/search/you-are-a-senior-microbiologis-LGYi.bRmQ5OiHgrZCntPTg"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1719054213477,
+        "title": "个人",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1719160306813,
+            "title": "邮箱",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1718870757827,
+                "title": "网易邮箱6.0版",
+                "icon": "https://logo.clearbit.com/mail.163.com",
+                "url": "https://mail.163.com/js6/main.jsp?sid=gLLPpruadsoGEGiCbOaahsmhqmxwsDEC&df=email163#module=read.ReadModule%7C%7B%22area%22%3A%22normal%22%2C%22isThread%22%3Afalse%2C%22viewType%22%3A%22%22%2C%22id%22%3A%2254%3A1tbiNhIEbWXAmCZWdgAAs2%22%2C%22fid%22%3A1%7D"
+              },
+              {
+                "type": "link",
+                "addDate": 1720685376093,
+                "title": "腾讯企业邮箱",
+                "icon": "https://logo.clearbit.com/exmail.qq.com",
+                "url": "https://exmail.qq.com/cgi-bin/frame_html?sid=ytYJewOTJaol1Ekv,2&sign_type=&r=2086f155e09c32266610dfa7fb0b5eaf"
+              },
+              {
+                "type": "link",
+                "addDate": 1721005888123,
+                "title": "收件箱 | ecchhhoxjjww@proton.me | Proton Mail",
+                "icon": "https://logo.clearbit.com/mail.proton.me",
+                "url": "https://mail.proton.me/u/0/inbox/Utw_-Pb608jpGWiya5Dl8FX9VttDPkiJUgyob49ddCvygEuiM3IyaI9pT8jJRvyQ4P1a6ymJVSYtaIrcXSHx_w=="
+              },
+              {
+                "type": "link",
+                "addDate": 1722879999033,
+                "title": "我的坚果云 - 坚果云 - 云盘|网盘|企业网盘|同步|备份|无限空间|免费网络硬盘|企业云盘",
+                "icon": "https://logo.clearbit.com/www.jianguoyun.com",
+                "url": "https://www.jianguoyun.com/#/"
+              },
+              {
+                "type": "link",
+                "addDate": 1722887279086,
+                "title": "Best HTML Viewer, HTML Beautifier, HTML Formatter and to Test / Preview HTML Output",
+                "icon": "https://logo.clearbit.com/codebeautify.org",
+                "url": "https://codebeautify.org/htmlviewer"
+              },
+              {
+                "type": "link",
+                "addDate": 1722925611483,
+                "title": "选项页 - 简悦 SimpRead",
+                "icon": "https://logo.clearbit.com/ijllcpnolfcooahcekpamkbidhejabll",
+                "url": "chrome-extension://ijllcpnolfcooahcekpamkbidhejabll/options/options.html#common"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1719054213478,
+            "title": "网络服务",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1719054123979,
+                "title": "科学上网购买疾风云用户中心 — JFCLOUND",
+                "icon": "https://logo.clearbit.com/jf16.net",
+                "url": "https://jf16.net/user"
+              },
+              {
+                "type": "link",
+                "addDate": 1720057516839,
+                "title": "slack Semantic Scholar Academic Graph ",
+                "icon": "https://logo.clearbit.com/app.slack.com",
+                "url": "https://app.slack.com/client/T030HQ1BHL1/C03027UT6R3"
+              },
+              {
+                "type": "link",
+                "addDate": 1720886882625,
+                "title": "订单详情 | 飞天猪",
+                "icon": "https://logo.clearbit.com/ftzcc01.fliggycloud.pro",
+                "url": "https://ftzcc01.fliggycloud.pro/#/knowledge"
+              },
+              {
+                "type": "link",
+                "addDate": 1720890669992,
+                "title": "以人为矿，美国如何成为世界上最大的血液交易市场_哔哩哔哩_bilibili",
+                "icon": "https://logo.clearbit.com/www.bilibili.com",
+                "url": "https://www.bilibili.com/video/BV12x4y1n7Yp/?p=7&spm_id_from=pageDriver"
+              },
+              {
+                "type": "link",
+                "addDate": 1722879501501,
+                "title": "简悦 SimpRead 个人用户",
+                "icon": "https://logo.clearbit.com/ijllcpnolfcooahcekpamkbidhejabll",
+                "url": "chrome-extension://ijllcpnolfcooahcekpamkbidhejabll/options/options.html#account"
+              },
+              {
+                "type": "link",
+                "addDate": 1724035408741,
+                "title": "Git 仓库基础操作 - Gitee.com",
+                "icon": "https://logo.clearbit.com/gitee.com",
+                "url": "https://gitee.com/help/articles/4114#article-header0"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1719904704971,
+            "title": "网盘",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1719904671399,
+                "title": "Koofr - Koofr",
+                "icon": "https://logo.clearbit.com/app.koofr.net",
+                "url": "https://app.koofr.net/app/storage/eafece01-f247-4ae0-9012-5c0d9250fbbf"
+              },
+              {
+                "type": "link",
+                "addDate": 1719929730485,
+                "title": " OneDrive(outlook邮箱)",
+                "icon": "https://logo.clearbit.com/onedrive.live.com",
+                "url": "https://onedrive.live.com/?id=root&cid=44D2BB29853F8A9E"
+              },
+              {
+                "type": "link",
+                "addDate": 1720076920660,
+                "title": "OneDrive (outlook mail)",
+                "icon": "https://logo.clearbit.com/onedrive.live.com",
+                "url": "https://onedrive.live.com/?id=44D2BB29853F8A9E%21111&cid=44D2BB29853F8A9E"
+              },
+              {
+                "type": "link",
+                "addDate": 1720280487422,
+                "title": "存储 | AList 管理",
+                "icon": "https://logo.clearbit.com/192.168.0.100",
+                "url": "http://192.168.0.100:5244/@manage/storages"
+              },
+              {
+                "type": "link",
+                "addDate": 1721979292780,
+                "title": "Filen",
+                "icon": "https://logo.clearbit.com/drive.filen.io",
+                "url": "https://drive.filen.io/#/dac6de73-80fa-4fcb-88da-0dbec6a36dc0"
+              },
+              {
+                "type": "link",
+                "addDate": 1723924282418,
+                "title": "MEGA",
+                "icon": "https://logo.clearbit.com/mega.nz",
+                "url": "https://mega.nz/fm/Dvog0LST"
+              },
+              {
+                "type": "link",
+                "addDate": 1723929602492,
+                "title": "PKMer_PKMer",
+                "icon": "https://logo.clearbit.com/pkmer.cn",
+                "url": "https://pkmer.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1724002326177,
+                "title": "PKMer_知识管理",
+                "icon": "https://logo.clearbit.com/pkmer.cn",
+                "url": "https://pkmer.cn/Pkmer-Docs/02-%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E5%9F%BA%E7%A1%80/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1719058520407,
+            "title": "压缩pdf插件API v2 Keys | CloudConvert",
+            "icon": "https://logo.clearbit.com/cloudconvert.com",
+            "url": "https://cloudconvert.com/dashboard/api/v2/keys"
+          },
+          {
+            "type": "link",
+            "addDate": 1719156087371,
+            "title": "tmlcolorcodes.com",
+            "icon": "https://logo.clearbit.com/tmlcolorcodes.com",
+            "url": "https://tmlcolorcodes.com/zh/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719159689524,
+            "title": "raindorp.io",
+            "icon": "https://logo.clearbit.com/app.raindrop.io",
+            "url": "https://app.raindrop.io/settings/app"
+          },
+          {
+            "type": "folder",
+            "addDate": 1720109274517,
+            "title": "RSS",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1720109985491,
+                "title": "Cubox",
+                "icon": "https://logo.clearbit.com/cubox.pro",
+                "url": "https://cubox.pro/my/inbox"
+              },
+              {
+                "type": "link",
+                "addDate": 1720467533217,
+                "title": "欢迎来到RssCafe",
+                "icon": "https://logo.clearbit.com/rss.cafe",
+                "url": "https://rss.cafe/welcome"
+              },
+              {
+                "type": "link",
+                "addDate": 1721011493345,
+                "title": "全文morss.it – Get more out of RSS feeds, for free",
+                "icon": "https://logo.clearbit.com/morss.it",
+                "url": "https://morss.it/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "addDate": 1723143808561,
+        "title": "WorkFlowy - Organize your brain.",
+        "icon": "https://logo.clearbit.com/workflowy.com",
+        "url": "https://workflowy.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1723301621850,
+        "title": "FlatFlowy",
+        "icon": "https://logo.clearbit.com/",
+        "url": "javascript:(function%20flatFlowy_3_2()%7Bfunction%20toastMsg(str,sec,err)%7BWF.showMessage(str,err);setTimeout(WF.hideMessage,(sec%7C%7C2)*1e3)%7Dfunction%20getNameForBreadcrumb(item)%7Bconst%20plainName=item.getNameInPlainText().trim();var%20replaceName=%22Untitled%22;if(plainName.length===0&&item.data.metadata.s3File&&item.data.metadata.s3File.fileName)replaceName=item.data.metadata.s3File.fileName;return%20plainName.length===0?replaceName:plainName%7Dfunction%20getBreadcrumbsAsString(item)%7Bconst%20ancestors=item.getAncestors().reverse();return%20ancestors.length%3E1?ancestors.splice(1).map(ancestor=%3EgetNameForBreadcrumb(ancestor)).join(%22%20%3E%20%22):%22Home%22%7Dfunction%20addBreadcrumbsToMatches()%7Bconst%20matches=document.querySelectorAll(%27.project.matches,.project.metaMatches%27);matches.forEach(match=%3E%7Bconst%20pID=match.getAttribute(%22projectid%22);const%20item=WF.getItemById(pID);match.firstChild.title=getBreadcrumbsAsString(item)%7D)%7Dconst%20css=%60.page.searching%20.project%3E.name,.page.searching%20.project%3E.notes%7Bheight:0;opacity:0%7D.page.searching%20.project.matches%20.name.matches,.page.searching%20.project.matches.noted%20.name,.page.searching%20.project.metaMatches%20.name%7Bheight:100%25;opacity:1%7D.page.searching%20.children%7Bmargin:0;padding:0;border:0%7D.page.searching%20.addSiblingButton,.page.searching%20.expand%7Bdisplay:none%7D.done%20.fullMatch%20.content%20.contentMatch,.fullMatch%20.content%20.contentMatch,.project.metaMatches%3E.name.with-updates.annotationAdded%3E.content%3E.innerContentContainer,.project.metaMatches%3E.name%3E.content%3E.innerContentContainer%7Bbackground-color:transparent%7D%60;const%20ID=%22FlatFlowy%22;const%20ff=document.getElementById(ID);const%20NO_SEARCH=WF.currentSearchQuery()===null;if(ff)%7BNO_SEARCH?toastMsg(%60FlatFlowy:%20$%7Bff.disabled?%22ON%22:%22OFF%22%7D%60):addBreadcrumbsToMatches();return%20void(ff.disabled=!ff.disabled)%7Dconst%20s=document.createElement(%27style%27);s.innerText=css;s.id=ID;document.head.appendChild(s);NO_SEARCH?toastMsg(%22Flatflowy:%20ON%22):addBreadcrumbsToMatches()%7D)();"
+      },
+      {
+        "type": "link",
+        "addDate": 1723299838524,
+        "title": "Clip2WF",
+        "icon": "https://logo.clearbit.com/",
+        "url": "javascript:(function%20C2W_2_9()%7Bfunction%20eOPML(str)%7Breturn%20str.replace(/&/g,'&amp;amp;').replace(/%3C/g,'&amp;lt;').replace(/%3E/g,'&amp;gt;').replace(/%22/g,'&quot;').replace(/(%5Cn)/g,'&%2310;')%7Dfunction%20copyThat(str)%7Bconst%20t=document.createElement(%22textarea%22);t.value=str;document.body.appendChild(t);t.select();const%20success=document.execCommand(%22copy%22);document.body.removeChild(t);return%20success%7Dfunction%20toastMsg(str,sec,err)%7BWF.showMessage(str,err);setTimeout(WF.hideMessage,(sec%7C%7C2)*1e3)%7Dconst%20IS_WF=typeof%20WF===%22object%22&&typeof%20WF.currentItem===%22function%22;const%20copyAndToastExt=(str,message,isWF)=%3EcopyThat(str)?isWF?toastMsg(message,2):null:prompt(%22%5CnCopy%20failed.%5Cn%5CnCopy%20this%20manually.%22,str);const%20name=eOPML(document.title.replace(/%20-%20WorkFlowy$/,%22%22));const%20bullet=IS_WF?%60&lt;i&gt;See:%20&quot;$%7Bname%7D&quot;&lt;/i&gt;%60:name;const%20selection=window.getSelection().toString();const%20link=eOPML(location.href);const%20note=selection?%60..$%7Blink%7D&%2310;&%2310;$%7BeOPML(selection)%7D%60:link;const%20clip=%60%3Copml%3E%3Cbody%3E%3Coutline%20text=%22$%7Bbullet%7D%22%20_note=%22$%7Bnote%7D%22%20/%3E%3C/body%3E%3C/opml%3E%60;copyAndToastExt(clip,%22Clip%20copied!%22,IS_WF)%7D)();"
+      },
+      {
+        "type": "link",
+        "addDate": 1721403293766,
+        "title": "使用记录",
+        "icon": "https://logo.clearbit.com/ad.nn.ci",
+        "url": "https://ad.nn.ci/zh/usage"
+      },
+      {
+        "type": "link",
+        "addDate": 1719904345810,
+        "title": "Zotero One 新手须知",
+        "icon": "https://logo.clearbit.com/www.yuque.com",
+        "url": "https://www.yuque.com/qnscholar/zotero-if-pro-max/sawsp7"
+      },
+      {
+        "type": "folder",
+        "addDate": 1720157008969,
+        "title": "学习",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1720157043710,
+            "title": "生物技术",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1720157373743,
+                "title": "Protocol",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1720157308825,
+                    "title": "生长曲线、CFU 和光密度测量(有视频) |微生物学 |朱庇 特 --- Growth Curves, CFU and Optical Density Measurements | Microbiology | JoVe",
+                    "icon": "https://logo.clearbit.com/app.jove.com",
+                    "url": "https://app.jove.com/v/10511/growth-curves-generating-growth-curves-using-colony-forming-units-and-optical-density-measurements"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1719939243746,
+        "title": "素材",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1719939243747,
+            "title": "壁纸",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1719939193703,
+                "title": "",
+                "icon": "https://logo.clearbit.com/unsplash.com",
+                "url": "https://unsplash.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1719939314431,
+                "title": "名画 美术馆 – 最着名的艺术家",
+                "icon": "https://logo.clearbit.com/cn.gallerix.ru",
+                "url": "https://cn.gallerix.ru/a1/"
+              },
+              {
+                "type": "link",
+                "addDate": 1719939403467,
+                "title": "免费素材图片",
+                "icon": "https://logo.clearbit.com/www.pexels.com",
+                "url": "https://www.pexels.com/zh-cn/leaderboard/"
+              },
+              {
+                "type": "link",
+                "addDate": 1719939611008,
+                "title": "发现并下载免费图片 - Pixabay",
+                "icon": "https://logo.clearbit.com/pixabay.com",
+                "url": "https://pixabay.com/zh/illustrations/search/?order=ec"
+              },
+              {
+                "type": "link",
+                "addDate": 1719939629168,
+                "title": "Free high resolution stock images CC0 and Public Domain - Magdeleine - Page 5 of 177",
+                "icon": "https://logo.clearbit.com/magdeleine.co",
+                "url": "https://magdeleine.co/page/5/"
+              },
+              {
+                "type": "link",
+                "addDate": 1721549788866,
+                "title": "Top Wallpapers - wallhaven.cc",
+                "icon": "https://logo.clearbit.com/wallhaven.cc",
+                "url": "https://wallhaven.cc/toplist?page=3"
+              },
+              {
+                "type": "link",
+                "addDate": 1721979285552,
+                "title": "Filen",
+                "icon": "https://logo.clearbit.com/drive.filen.io",
+                "url": "https://drive.filen.io/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1719943992365,
+        "title": "翻译",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1719943960968,
+            "title": "小牛翻译",
+            "icon": "https://logo.clearbit.com/niutrans.com",
+            "url": "https://niutrans.com/cloud/account_info/info"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "addDate": 1720054985308,
+        "title": "Zotero One 官方手册",
+        "icon": "https://logo.clearbit.com/docs.qq.com",
+        "url": "https://docs.qq.com/aio/DWlBtSHpBUGdkYUpy?u=c3693d23e4fe45269da5ea8499e031a0&p=XYyvlp318cbu2WjTvik8Et"
+      },
+      {
+        "type": "link",
+        "addDate": 1722632585749,
+        "title": "PrintFriendly",
+        "icon": "https://logo.clearbit.com/",
+        "url": "javascript:(function()%7Bif(window%5B'priFri'%5D)%7Bwindow.print()%7Delse%7Bpfstyle='nbk';pfBkVersion='1';_pnicer_script=document.createElement('SCRIPT');_pnicer_script.type='text/javascript';_pnicer_script.src='//cdn.printfriendly.com/printfriendly.js';document.getElementsByTagName('head')%5B0%5D.appendChild(_pnicer_script);%7D%7D)();"
+      },
+      {
+        "type": "link",
+        "addDate": 1720055033185,
+        "title": "Zotero One 教程",
+        "icon": "https://logo.clearbit.com/docs.qq.com",
+        "url": "https://docs.qq.com/aio/DSVdxTkNyaFpTTWpL?u=c3693d23e4fe45269da5ea8499e031a0&p=OKu5xT7Z3p1IrcM74Vppq7"
+      },
+      {
+        "type": "link",
+        "addDate": 1720056535051,
+        "title": "腾讯文档",
+        "icon": "https://logo.clearbit.com/docs.qq.com",
+        "url": "https://docs.qq.com/desktop?u=c3693d23e4fe45269da5ea8499e031a0"
+      },
+      {
+        "type": "link",
+        "addDate": 1721120983969,
+        "title": "Perplexity",
+        "icon": "https://logo.clearbit.com/www.perplexity.ai",
+        "url": "https://www.perplexity.ai/"
+      },
+      {
+        "type": "link",
+        "addDate": 1722538388793,
+        "title": "CloudDrive2",
+        "icon": "https://logo.clearbit.com/localhost",
+        "url": "http://localhost:19798/#/"
+      },
+      {
+        "type": "folder",
+        "addDate": 1722958225798,
+        "title": "USERMANUAL",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1722958154465,
+            "title": "插件目录 Flow Launcher 流启动器",
+            "icon": "https://logo.clearbit.com/www.flowlauncher.com",
+            "url": "https://www.flowlauncher.com/docs/#/plugins"
+          },
+          {
+            "type": "folder",
+            "addDate": 1722958261925,
+            "title": "WIN",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1722958261925,
+                "title": "新建文件夹",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1723012704352,
+                    "title": "Software – rawbytz",
+                    "icon": "https://logo.clearbit.com/rawbytz.wordpress.com",
+                    "url": "https://rawbytz.wordpress.com/software/"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1722958261925,
+            "title": "MAC",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1723158046942,
+                "title": "Docker Machine | 菜鸟教程",
+                "icon": "https://logo.clearbit.com/www.runoob.com",
+                "url": "https://www.runoob.com/docker/docker-machine.html"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1724036462045,
+            "title": "使用技巧 - rclone中文站",
+            "icon": "https://logo.clearbit.com/rclone.cn",
+            "url": "https://rclone.cn/usage/"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "addDate": 1723329815384,
+        "title": "Chat - Perplexica",
+        "icon": "https://logo.clearbit.com/f5awkjr6.rpcld.com",
+        "url": "https://f5awkjr6.rpcld.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1723476394512,
+        "title": "Pot | 插件列表",
+        "icon": "https://logo.clearbit.com/pot-app.com",
+        "url": "https://pot-app.com/plugin.html"
+      },
+      {
+        "type": "link",
+        "addDate": 1723693018801,
+        "title": "Venny 2.1.0",
+        "icon": "https://logo.clearbit.com/bioinfogp.cnb.csic.es",
+        "url": "https://bioinfogp.cnb.csic.es/tools/venny/index.html"
+      },
+      {
+        "type": "link",
+        "addDate": 1723747505174,
+        "title": "Topics on GitHub",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/topics"
+      }
+    ]
+  },
+  {
+    "type": "folder",
+    "addDate": 1722569232265,
+    "title": "移动收藏夹",
+    "children": [
+      {
+        "type": "folder",
+        "addDate": 1718646520278,
+        "title": "快捷指令",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1718646504650,
+            "title": "快捷指令x日历｜苹果自带的Calflow",
+            "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+            "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDYwMDU3Nw==&mid=2247483681&idx=1&sn=7f388827704a1007b275291f292daecb&chksm=c129b1cff65e38d9d28c143699f15fabfea84ea2e7798123597d4da98771bd17c5dcbea234ee#rd"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1718654429983,
+        "title": "图像工具",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1718654403174,
+            "title": "佐糖 - AI抠图在线工具_智能抠图_免费抠图_一键换背景",
+            "icon": "https://logo.clearbit.com/picwish.cn",
+            "url": "https://picwish.cn/remove-background"
+          },
+          {
+            "type": "link",
+            "addDate": 1718683613532,
+            "title": "TinyPNG – 智能压缩 WebP、PNG 和 JPEG 图像",
+            "icon": "https://logo.clearbit.com/tinypng.com",
+            "url": "https://tinypng.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1718705819270,
+            "title": "TinyPNG – 智能压缩您的WebP、JPEG和PNG图片",
+            "icon": "https://logo.clearbit.com/tinypng.com",
+            "url": "https://tinypng.com/cn/"
+          },
+          {
+            "type": "folder",
+            "addDate": 1718714255240,
+            "title": "新建文件夹",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]
